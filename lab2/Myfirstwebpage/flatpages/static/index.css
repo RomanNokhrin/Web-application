@@ -1,0 +1,47 @@
+div {
+height: 30px;
+background-image: url(1.jpg)
+background-repeat: no-repeat;
+background-position: top left 10px;
+}
+
+<style>
+  .header-h1 h1 {
+    font-family: "Times New Roman";
+    position: relative;
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #00838f;
+  }
+</style>
+
+body {
+    background: #1abc9c; 
+    font-family: Tahoma, Arial, sans-serif; 
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+}
+p, h4 {
+    font-size: 20px; 
+    margin-bottom: 0;
+}
+h4 {
+    font-size: 14px; 
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+	width: 100%;
+}
+
+img {
+	height: 30px;
+	width: auto;
+}
